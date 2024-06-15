@@ -1,0 +1,6 @@
+{
+  "hello": "Hello",
+  "myPhone": "My phone number: {phone} @:hello",
+  "test": "test"
+
+}

@@ -1,0 +1,4 @@
+{
+  "hello": "Привет",
+  "myPhone": "{phone} это мой номер @:hello"
+}
